@@ -1,3 +1,3 @@
-Chat at Kingwood Choir
+Hapi JS Sample app
 ===
 
