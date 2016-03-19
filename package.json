@@ -4,7 +4,7 @@
   "description": "Sample Hapi.js app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "lab",
     "start": "node server.js"
   },
   "author": "Rodrigo Argumedo <rodrigo.argumedo@outlook.com>",
