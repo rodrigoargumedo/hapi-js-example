@@ -16,6 +16,7 @@
     "good-console": "^5.3.1",
     "handlebars": "^4.0.5",
     "hapi": "^13.2.1",
+    "hapi-alive": "^1.2.0",
     "inert": "^3.2.0",
     "jquery": "^2.2.2"
   },
